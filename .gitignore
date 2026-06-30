@@ -1,0 +1,9 @@
+.vscode/
+.env
+.env.local
+*.pem
+*.pkcs12
+config/jwt/
+.DS_Store
+Thumbs.db
+ehthumbs.db
